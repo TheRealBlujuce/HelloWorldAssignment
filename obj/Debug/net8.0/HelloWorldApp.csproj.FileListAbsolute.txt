@@ -1,0 +1,14 @@
+/Users/willemmarda/Documents/GitHub/HelloWorldAssignment/obj/Debug/net8.0/HelloWorldApp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/willemmarda/Documents/GitHub/HelloWorldAssignment/obj/Debug/net8.0/HelloWorldApp.AssemblyInfoInputs.cache
+/Users/willemmarda/Documents/GitHub/HelloWorldAssignment/obj/Debug/net8.0/HelloWorldApp.AssemblyInfo.cs
+/Users/willemmarda/Documents/GitHub/HelloWorldAssignment/obj/Debug/net8.0/HelloWorldApp.csproj.CoreCompileInputs.cache
+/Users/willemmarda/Documents/GitHub/HelloWorldAssignment/bin/Debug/net8.0/HelloWorldApp
+/Users/willemmarda/Documents/GitHub/HelloWorldAssignment/bin/Debug/net8.0/HelloWorldApp.deps.json
+/Users/willemmarda/Documents/GitHub/HelloWorldAssignment/bin/Debug/net8.0/HelloWorldApp.runtimeconfig.json
+/Users/willemmarda/Documents/GitHub/HelloWorldAssignment/bin/Debug/net8.0/HelloWorldApp.dll
+/Users/willemmarda/Documents/GitHub/HelloWorldAssignment/bin/Debug/net8.0/HelloWorldApp.pdb
+/Users/willemmarda/Documents/GitHub/HelloWorldAssignment/obj/Debug/net8.0/HelloWorldApp.dll
+/Users/willemmarda/Documents/GitHub/HelloWorldAssignment/obj/Debug/net8.0/refint/HelloWorldApp.dll
+/Users/willemmarda/Documents/GitHub/HelloWorldAssignment/obj/Debug/net8.0/HelloWorldApp.pdb
+/Users/willemmarda/Documents/GitHub/HelloWorldAssignment/obj/Debug/net8.0/HelloWorldApp.genruntimeconfig.cache
+/Users/willemmarda/Documents/GitHub/HelloWorldAssignment/obj/Debug/net8.0/ref/HelloWorldApp.dll
